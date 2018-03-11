@@ -21,6 +21,10 @@
     }
 </script>
 <style lang="less" scoped>
+    #view{
+        background: #fff;
+        z-index: 9
+    }
     .account-container {
         height: e("calc(100% - 0.5rem)");
     }

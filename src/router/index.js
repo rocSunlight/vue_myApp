@@ -41,7 +41,7 @@ export const constantRouterMap = [
     },
     { 
         path: '/account', 
-        meta: { page: true}, 
+        meta: {slide: 0,page: true},
         component: _import_('Account/index'),
         name: '个人中心'
     },
