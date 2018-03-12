@@ -4,9 +4,9 @@ const webpack = require('webpack');
 module.exports = {
   entry: {
     vendor: [
-      'axios',
-      'vue',
-      'vue-router',
+      'axe',
+      'vuios\',\n' +
+      '      \'vue-router',
       'vuex',
       'qs',
       'babel-polyfill'
